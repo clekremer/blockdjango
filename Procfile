@@ -1,1 +1,1 @@
-web: gunicorn blockdjango.wsgi
+web: gunicorn codestar.wsgi
